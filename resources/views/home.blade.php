@@ -19,4 +19,12 @@
         <p> <span class="font-weight-bold">Url actuelle :</span> {{$urlCurrent}}</p>
         <p> <span class="font-weight-bold">Url précédent :</span>{{$urlPrevious}}</p>
     </div>
+    <hr>
+    <div class="text-center">
+        <h3>Add ICON :</h3>
+        <p> <span class="font-weight-bold">Type solid :</span><i class="fas fa-balance-scale"></i></p>
+        <p> <span class="font-weight-bold">Type regular :</span><i class="far fa-bell"></i></p>
+        <p> <span class="font-weight-bold">Type brands :</span><i class="fab fa-btc"></i></p>
+    </div>
+
 @endsection
